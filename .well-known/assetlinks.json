@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.publicadormultiplataforma.app",
+      "sha256_cert_fingerprints": [
+        "5E:9F:2D:E9:E1:13:DE:D2:4B:50:92:D4:12:BC:5D:9F:41:63:6A:0A:AC:3E:67:34:AC:7F:3C:7C:2E:77:59:B0"
+      ]
+    }
+  }
+]
